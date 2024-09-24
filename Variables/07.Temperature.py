@@ -1,9 +1,7 @@
 """Create a temperature.py program that converts a temperature from Fahrenheit (°F) to Celsius (°C).
 
-Celsius= 
-1.8
-(Fahrenheit−32)
-​
+Celsius = (Fahrenheit - 32)/1.8
+
 """
 
 fahrenheit = 76
